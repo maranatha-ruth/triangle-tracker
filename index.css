@@ -1,0 +1,23 @@
+html{
+    background-color:rgb(128, 128, 128);
+      
+}
+.form{
+    font-family: 'Courier New', Courier, monospace;
+    color :rgb(134, 121, 121);
+    border:dotted;
+    position: relative;
+    padding-left: px;
+    display: block;
+    text-align: center;
+    height: 400px;
+    padding-top:12px;
+    padding-bottom:12px;
+    padding-right:12px;
+    padding-left:12px;
+    position: absolute;
+    top:30%;
+    right:40%;
+    background-color: turquoise
+    
+}
