@@ -15,7 +15,12 @@
       else if(firstSide!==secondSide && firstSide!==thirdSide && secondSide!==thirdSide){
         alert("Scalene")
       }
+      else if(firstSide+secondSide<=thirdSide||firstSide+thirdSide<=secondSide||){
+        alert("not a triangle")
+      }
+      
+      
       else{
-        alert("not a trianle");
+        alert("invalid");
       }
     }

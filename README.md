@@ -13,6 +13,12 @@ and envolves how to use HTML input fields and how to link them to the business l
 I am maranatha ruth
 student at wecode moringa
 ```
+### Setup instructions.
+```
+install google crome
+have script
+text editor
+```
 ### BDD
 
 | INPUT   |    OUTPUT     |  BEHAVIOUR |
@@ -20,6 +26,6 @@ student at wecode moringa
 | (2,2,2) |  equilateral  | when I writte three side equal number it will say equilateral.     |
 | (3,3,5) |  isosceles   | when I writte at least two equal side it will display isoscoles.  |
 | (10,15,25) | scalene |  when I writte three unequal sides it say scalene.        |
-    `
+|()    `
 
 
