@@ -15,10 +15,10 @@ student at wecode moringa
 ```
 ### BDD
 
-| INPUT   |    OUTPUT     |  BEHEVIOUR |
+| INPUT   |    OUTPUT     |  BEHAVIOUR |
 |----------|:-------------:|------:     |
-| (2,2,2) |  equilateral triangle | when writte three side equal number it will say equilateral triangle.     |
-| col 2 is |    centered   |   $12      |
+| (2,2,2) |  equilateral triangle | when written three side equal number it will say equilateral.     |
+| (3,3,5) |  isosceles triangle   | when written at least two equal side it will display isoscoles  |
 | col 3 is | right-aligned |    $1      |
     `
 
