@@ -26,7 +26,8 @@ text editor
 | (2,2,2) |  equilateral  | when I writte three side equal number it will say equilateral.     |
 | (3,3,5) |  isosceles   | when I writte at least two equal side it will display isoscoles.  |
 | (10,15,25) | scalene |  when I writte three unequal sides it say scalene.
-        |
-|(4,3,9) |  not a triangle| whe I put  the sum of any 2 sides of a triangle is be less than or equal to the measure of the third side.| 
+|
+| (4,3,9)  |not a triangle | whe I put  the sum of any 2 sides of a triangle is be less than or equal to the measure of the third side.
+ |
 
 
