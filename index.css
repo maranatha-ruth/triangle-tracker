@@ -1,5 +1,7 @@
 html{
-    background-color:#EEE8AA    
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvgukkVCJdF5tq5qxCNLC6qbd0OEmuz-8mJoG4wfBr0wk6PMAjNA");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 five{
     font-family: 'Courier New', Courier, monospace;
@@ -17,6 +19,4 @@ five{
     position: absolute;
     top:30%;
     right:40%;
-
-    
 }
