@@ -14,7 +14,7 @@
           alert("Equilateral");
         }
         else if(firstSide===secondSide || firstSide===thirdSide || secondSide===thirdSide){
-        alert("Isosceles");
+          alert("Isosceles");
          }
   
         else if(firstSide!==secondSide && firstSide!==thirdSide && secondSide!==thirdSide){
@@ -26,4 +26,5 @@
       else {
         alert("not a triangle");
       }
-    };
+    }; 
+       
