@@ -7,3 +7,6 @@ triangle-triangle is build an application that will help us know whether a trian
 and envolves how to use HTML input fields and how to link them to the business logic using javascript.
 ```
 ```
+###Author(s) information.
+I am maranatha ruth
+student at wecode moringa
