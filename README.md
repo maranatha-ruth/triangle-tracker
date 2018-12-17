@@ -20,7 +20,6 @@ have script
 text editor
 ```
 ### BDD
-```
 
 | INPUT   |    OUTPUT     |  BEHAVIOUR |
 |----------|:-------------:|------:     |
@@ -28,11 +27,14 @@ text editor
 | (3,3,5) |  isosceles   | when I writte at least two equal side it will display isoscoles.| 
 | (10,15,25) | scalene |  when I writte three unequal sides it say scalene.|
 | (4,3,9)  |not a triangle | whe I put  the sum of any 2 sides of a triangle is be less than or equal to the measure of the third side.|
- ```
+ 
 ### Technologies used.
 ```
 html javascript
 ```
+### Contact information.
+```
+E-mail:maranatharuth6@gmail.com
 
 
 
