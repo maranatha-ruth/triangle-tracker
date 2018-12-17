@@ -5,22 +5,25 @@
       var secondSide=parseInt(document.getElementById("secondSide").value);
       var thirdSide=parseInt(document.getElementById("thirdSide").value);
       
-      if (firstSide===secondSide && firstSide===thirdSide && secondSide===thirdSide){
-        alert("Equilateral");
-      }
-      else if(firstSide===secondSide || firstSide===thirdSide || secondSide===thirdSide){
-      alert("Isosceles");
-    }
+       if (firstSide+secondSide > thirdSide && 
+        firstSide+thirdSide > secondSide &&
+        secondSide+thirdSide > firstSide){
 
-      else if(firstSide!==secondSide && firstSide!==thirdSide && secondSide!==thirdSide){
-        alert("Scalene")
-      }
-      else if(firstSide+secondSide<=thirdSide||firstSide+thirdSide<=secondSide||){
-        alert("not a triangle")
+
+        if (firstSide===secondSide && firstSide===thirdSide && secondSide===thirdSide){
+          alert("Equilateral");
+        }
+        else if(firstSide===secondSide || firstSide===thirdSide || secondSide===thirdSide){
+        alert("Isosceles");
+         }
+  
+        else if(firstSide!==secondSide && firstSide!==thirdSide && secondSide!==thirdSide){
+          alert("Scalene")
+        }
       }
       
-      
-      else{
-        alert("invalid");
+       
+      else {
+        alert("not a triangle");
       }
-    }
+    };
