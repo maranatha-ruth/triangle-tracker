@@ -35,6 +35,9 @@ html javascript
 ### Contact information.
 ```
 E-mail:maranatharuth6@gmail.com
-
+```
+### License and Copyright information.
+``` 
+MT copyright 2018
 
 
