@@ -15,7 +15,8 @@ student at wecode moringa
 ```
 ### Setup instructions.
 ```
-install google crome
+ins
+tall google crome
 have script
 text editor
 ```

@@ -4,11 +4,14 @@ function triangle() {
   var firstSide = parseInt(document.getElementById("firstSide").value);
   var secondSide = parseInt(document.getElementById("secondSide").value);
   var thirdSide = parseInt(document.getElementById("thirdSide").value);
-  var sides = [firstSide, secondSide, thirdSide]
-  sides.forEach(function (side) {
-    console.log('number of sides' + firstSide + '!')
 
-  });
+  var sides =["firstSide", "secondSide", "thirdSide"]
+  sides.forEach(function(side) {
+    console.log(" Side's number is " + side)
+});
+  sides[0];
+  side[1];
+  side[2];
 
 
   if (firstSide + secondSide > thirdSide &&
