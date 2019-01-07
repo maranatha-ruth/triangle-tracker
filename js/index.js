@@ -5,13 +5,13 @@ function triangle() {
   var secondSide = parseInt(document.getElementById("secondSide").value);
   var thirdSide = parseInt(document.getElementById("thirdSide").value);
 
-  var sides =["firstSide", "secondSide", "thirdSide"]
-  sides.forEach(function(side) {
-    console.log(" Side's number is " + side)
-});
-  sides[0];
-  side[1];
-  side[2];
+  var sides =[firstSide, secondSide, thirdSide]
+//   sides.forEach(function(side) {
+//     console.log(" Side's number is " + side)
+// });
+//   sides[0];
+//   side[1];
+//   side[2];
 
 
   if (firstSide + secondSide > thirdSide &&
